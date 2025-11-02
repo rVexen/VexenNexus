@@ -31,3 +31,9 @@ a.link-light:hover {
 .footer-links a {
     margin-right: 10px;
 }
+
+@media (min-width: 2400px) {
+    .container {
+        max-width: 1920px;
+    }
+}

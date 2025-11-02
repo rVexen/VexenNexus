@@ -27,7 +27,7 @@ function createCard(item) {
         <div class="card h-100">
           <img src="${item.img}" class="card-img-top" alt="${item.title}">
           <div class="card-body">
-            <h5 class="card-title text-center text-light">${item.title}</h5>
+            <h5 class="card-title text-center text-light text-center">${item.title}</h5>
           </div>
         </div>
       </a>
@@ -43,7 +43,7 @@ function renderCategories() {
     const cardsHTML = category.items.map(createCard).join('');
     container.innerHTML += `
       <section class="mb-5">
-        <h2 class="mb-3">${category.name}</h2>
+        <h2 class="mb-3 text-center">${category.name}</h2>
         <div class="row g-3">
           ${cardsHTML}
         </div>
