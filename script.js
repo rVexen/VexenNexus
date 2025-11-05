@@ -4,7 +4,6 @@ const data = [
     items: [
       { title: "САБ-ДД / САП", img: "./img/ChisaC.png", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=0#gid=0" },
       { title: "САБ-ДД / САП", img: "./img/BULINGC.png", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=1815378469#gid=1815378469" },
-      { title: "Gunlancer", img: "https://media1.tenor.com/m/qGhQpBVaqJ8AAAAd/ado-ado-cute.gif", link: "#" }
     ]
   },
   {
