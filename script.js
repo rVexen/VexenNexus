@@ -1,6 +1,6 @@
 const data = [
   {
-    name: "Warrior",
+    name: "ПАТЧ 2.7",
     items: [
       { title: "САБ-ДД / САП", img: "./img/ChisaC.png", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=0#gid=0" },
       { title: "САБ-ДД / САП", img: "./img/BULINGC.png", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=1815378469#gid=1815378469" },
@@ -8,7 +8,7 @@ const data = [
     ]
   },
   {
-    name: "САПОРТ",
+    name: "ВСЕ ПЕРСОНАЖИ",
     items: [
       { title: "БУЛИНГ", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
       { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
