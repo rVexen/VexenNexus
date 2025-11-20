@@ -9,9 +9,9 @@ const data = [
   {
     name: "ВСЕ ПЕРСОНАЖИ",
     items: [
-      { title: "БУЛИНГ", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
-      { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
-      { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" }
+      { title: "БУЛИНГ", img: "./img/what.png", link: "#" },
+      { title: "КАРТЕФИЯ", img: "./img/what.png", link: "#" },
+      { title: "ФИБИ", img: "./img/what.png", link: "#" }
     ]
   },
   
