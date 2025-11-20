@@ -2,7 +2,7 @@ const data = [
   {
     name: "ПАТЧ 2.7",
     items: [
-      { title: "САБ-ДД / САП", img: "./img/ChisaC.png", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=0#gid=0" },
+      { title: "САП", img: "./img/ChisaC.png", link: "https://docs.google.com/document/d/1Zt3AjO8TPUtSjbPBl5KfpBS4IvgmvXPOZAn6ke3Y7sE/edit?tab=t.0" },
       { title: "САБ-ДД / САП", img: "./img/BULINGC.png", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=1815378469#gid=1815378469" },
     ]
   },
